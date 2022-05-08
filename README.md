@@ -45,12 +45,11 @@
 </p>
 
 <br>
-<p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmaniya0&show_icons=true&locale=en&layout=compact" alt="yashmaniya0" /></p>
+<p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmaniya0&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="yashmaniya0" /></p>
 
-<p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en" alt="yashmaniya0" /></p>
+<p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="yashmaniya0" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmaniya0&" alt="yashmaniya0" /></p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashmaniya0&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=2FDD9B)](https://git.io/streak-stats)
 
 <br>
 <!-- rishav.dev -->
