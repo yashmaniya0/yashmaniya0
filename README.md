@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-maniya-b18344201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-maniya-b18344201/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/yashmaniya151101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashmaniya151101" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-maniya-b18344201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-maniya-b18344201/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/yashmaniya151101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashmaniya151101" height="30" width="40" /></a>
 <a href="https://instagram.com/yash_12.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_12.0" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codheck_0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codheck_0" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yash_maniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash_maniya" height="30" width="40" /></a>
