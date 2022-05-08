@@ -52,5 +52,6 @@
 
 
 <br>
+
 ## Spotify is my lifeline :)
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iswn0z10fwodchgzxt89h1956&cover_image=true&theme=default&bar_color=39c035&bar_color_cover=false" /></div> 
