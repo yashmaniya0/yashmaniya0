@@ -44,14 +44,14 @@
 </p>
 
 <br>
-<p><img align="left" style="padding:10px 0 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmaniya0&show_icons=true&locale=en&layout=compact" alt="yashmaniya0" /></p>
+<p><img align="left" style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmaniya0&show_icons=true&locale=en&layout=compact" alt="yashmaniya0" /></p>
 
-<p><img align="center" style="padding:10px 0 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en" alt="yashmaniya0" /></p>
+<div><img align="center" style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en" alt="yashmaniya0" /></div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmaniya0&" alt="yashmaniya0" /></p>
 
 
 <br>
 
-## Spotify is my lifeline :)
+## **Spotify is my lifeline :)**
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iswn0z10fwodchgzxt89h1956&cover_image=true&theme=default&bar_color=39c035&bar_color_cover=false" /></div> 
