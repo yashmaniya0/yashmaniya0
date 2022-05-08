@@ -44,11 +44,11 @@
 </p>
 
 <br>
-<p><img align="left" style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmaniya0&show_icons=true&locale=en&layout=compact" alt="yashmaniya0" /></p>
+<p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmaniya0&show_icons=true&locale=en&layout=compact" alt="yashmaniya0" /></p>
 
-<div><img align="center" style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en" alt="yashmaniya0" /></div>
+<p><img style="margin:0px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en" alt="yashmaniya0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmaniya0&" alt="yashmaniya0" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmaniya0&" alt="yashmaniya0" /></p>
 
 
 <br>
