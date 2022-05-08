@@ -4,7 +4,7 @@
 
 <br>
 
-### I'm Yash Maniya, a Sophomre in CSE '24 | IIT Jodhpur. I like exploring random things and am enthusiastic about
+### I'm Yash Maniya, a Sophomre in CSE '24 | IIT Jodhpur. I like exploring random things.
 
 <br/>  
 
