@@ -16,10 +16,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-maniya-b18344201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-maniya-b18344201/" height="30" width="40" /></a>
-<a href="https://instagram.com/yash_12.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_12.0" height="30" width="40" /></a>
+<a href="https://instagram.com/yash_12.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_12.0" height="33" width="40" /></a>
 <a href="https://www.codechef.com/users/codheck_0" target="blank"><img align="center" src="./srcs/imgs/codechef.png" alt="codheck_0" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yash_maniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash_maniya" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yash_maniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash_maniya" height="35" width="35" /></a>
 <a href="https://www.kaggle.com/yashmaniya151101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashmaniya151101" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/iswn0z10fwodchgzxt89h1956?si=59deab86f56943da" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" height="40" width="40" /></a>
 </p>
 
 <br>
