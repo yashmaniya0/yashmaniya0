@@ -9,7 +9,8 @@
 
 <br/>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmaniya0&label=Profile%20views&color=0e75b6&style=flat" alt="yashmaniya0" /> </p>
+<img src="https://komarev.com/ghpvc/?username=yashmaniya0&label=Profile%20views&color=0e75b6&style=flat" alt="yashmaniya0" />
+<a href="https://github.com/akshatjain1004?tab=followers" style="margin-left:10px;"><img src="https://img.shields.io/github/followers/yashmaniya0?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ## Connect with me :
@@ -51,6 +52,8 @@
 <p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="yashmaniya0" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashmaniya0&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=2FDD9B)](https://git.io/streak-stats)
+
+[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=yashmaniya0&bg_color=0e0627&color=a2fbfc&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/SubhamRaoniar28/github-readme-activity-graph)
 
 <br>
 <!-- rishav.dev -->
