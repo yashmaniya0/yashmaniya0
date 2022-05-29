@@ -5,7 +5,7 @@
 
 <br>
 
-### <p align="center">I'm Yash Maniya, a Sophomre in CSE '24 | IIT Jodhpur. I like exploring random things.</p>
+### <p align="center">I'm Yash Maniya, a Sophomore in CSE '24 | IIT Jodhpur. I like exploring random things.</p>
 
 <br/>  
 
