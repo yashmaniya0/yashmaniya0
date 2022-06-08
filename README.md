@@ -10,7 +10,7 @@
 <br/>  
 
 <img src="https://komarev.com/ghpvc/?username=yashmaniya0&label=Profile%20views&color=0e75b6&style=flat" alt="yashmaniya0" />
-<a href="https://github.com/akshatjain1004?tab=followers" style="margin-left:10px;"><img src="https://img.shields.io/github/followers/yashmaniya0?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/yashmaniya0?tab=followers" style="margin-left:10px;"><img src="https://img.shields.io/github/followers/yashmaniya0?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ## Connect with me :
@@ -28,23 +28,7 @@
 
 ## Languages and Tools :
 
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" /> 
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-</p>
+![skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,dart,flutter,nodejs,heroku,github,git,cpp,py,pytorch,tensorflow,vscode,androidstudio&theme=dark&perline=9)
 
 <br>
 <p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmaniya0&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="yashmaniya0" /></p>
@@ -53,7 +37,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashmaniya0&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=2FDD9B)](https://git.io/streak-stats)
 
-[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=yashmaniya0&bg_color=0e0627&color=a2fbfc&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/SubhamRaoniar28/github-readme-activity-graph)
+[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=yashmaniya0&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/SubhamRaoniar28/github-readme-activity-graph)
 
 <br>
 <!-- rishav.dev -->
