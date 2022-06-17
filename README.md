@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://c.tenor.com/OISpcH9g0zUAAAAC/jujutsu-kaisen-gojo.gif" align="center" style="width: 60%" />
+<img src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/media/37f1bcbcdd3818bec18999802c6ed4b8.gif" align="center" style="width: 80%" />
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" /> -->
 </div>  
 
 <br>
 
-### <p align="center">I'm Yash Maniya, a Sophomore in CSE '24 | IIT Jodhpur. I like exploring random things.</p>
+### <p align="center">Hello! I'm Yash Maniya, a Pre-Final Yearite CSE '24 | IIT Jodhpur. I like exploring and learning things.</p>
 
 <br/>  
 
@@ -39,8 +39,15 @@
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=yashmaniya0&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/SubhamRaoniar28/github-readme-activity-graph)
 
-<br>
-<!-- rishav.dev -->
+<figure><embed src="https://wakatime.com/share/@yashmaniya0/78d01ee5-6013-4894-ae68-a25c42d3b432.svg" style="height:800px"></embed></figure>
 
-<!-- ## <p align="center">**Spotify is lifeline :)**</p>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iswn0z10fwodchgzxt89h1956&cover_image=true&theme=default&bar_color=39c035&bar_color_cover=false" /></div>  -->
+
+## <p align="center">**Spotify is lifeline :)**</p>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iswn0z10fwodchgzxt89h1956&cover_image=true&theme=default&bar_color=39c035&bar_color_cover=false" style="width:300px;"/></div> 
+
+<br>
+<div align="center">
+<a href = "https://open.spotify.com/playlist/1R9OtJke6VonG5WfC25lyJ?si=4843c36a231a481f"><img src="https://img.shields.io/badge/Pop%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" style="height:32px;"/></a>
+<a href = "https://open.spotify.com/playlist/2JwHeSnovT7DhKSIIBZH69?si=27f71730e2e94dc0"><img src="https://img.shields.io/badge/fire&ashes-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" style="height:32px;"/></a>
+<a href = "https://open.spotify.com/playlist/2oLai4qSIO2GpwQpjJjQeF?si=8d5a81d3f70342d5"><img src="https://img.shields.io/badge/No%20Regrets-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" style="height:32px;"/></a>
+</div> 
