@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/media/37f1bcbcdd3818bec18999802c6ed4b8.gif" align="center" style="width: 80%" />
+<img src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/media/37f1bcbcdd3818bec18999802c6ed4b8.gif" align="center" style="width: 65%" />
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" /> -->
 </div>  
 
@@ -39,8 +39,7 @@
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=yashmaniya0&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/SubhamRaoniar28/github-readme-activity-graph)
 
-<figure><embed src="https://wakatime.com/share/@yashmaniya0/78d01ee5-6013-4894-ae68-a25c42d3b432.svg" style="height:800px"></embed></figure>
-
+<figure><image src="https://wakatime.com/share/@yashmaniya0/8b2d0b91-3b4f-4d29-8243-6a37079104e4.svg" style="width: 90%"></image></figure>
 
 ## <p align="center">**Spotify is lifeline :)**</p>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iswn0z10fwodchgzxt89h1956&cover_image=true&theme=default&bar_color=39c035&bar_color_cover=false" style="width:300px;"/></div> 
