@@ -17,10 +17,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-maniya-b18344201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-maniya-b18344201/" height="30" width="40" /></a>
-<a href="https://instagram.com/yash_12.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_12.0" height="33" width="40" /></a>
 <a href="https://www.codechef.com/users/codheck_0" target="blank"><img align="center" src="./srcs/imgs/codechef.png" alt="codheck_0" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yash_maniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash_maniya" height="35" width="35" /></a>
-<a href="https://www.kaggle.com/yashmaniya151101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashmaniya151101" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/iswn0z10fwodchgzxt89h1956?si=59deab86f56943da" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" height="40" width="40" /></a>
 </p>
 
@@ -36,5 +34,3 @@
 <p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="yashmaniya0" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashmaniya0&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=2FDD9B)](https://git.io/streak-stats)
-
-[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=yashmaniya0&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/SubhamRaoniar28/github-readme-activity-graph)
