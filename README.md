@@ -5,7 +5,7 @@
 
 <br>
 
-### <p align="center">Hello! I'm Yash Maniya, a Pre-Final Yearite CSE '24 | IIT Jodhpur. I like exploring and learning things.</p>
+### <p align="center">Hello! I'm Yash Maniya, CSE '24 @ IIT Jodhpur. blah blah blah</p>
 
 <br/>  
 
