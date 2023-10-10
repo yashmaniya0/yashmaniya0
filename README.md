@@ -5,7 +5,7 @@
 
 <br>
 
-### <p align="center">Hello! I'm Yash Maniya, CSE '24 @ IIT Jodhpur. blah blah blah</p>
+<p align="center">Hello! I'm Yash Maniya, CSE '24 @ IIT Jodhpur. blah blah blah</p>
 
 <br/>  
 
@@ -13,7 +13,7 @@
 <a href="https://github.com/yashmaniya0?tab=followers" style="margin-left:10px;"><img src="https://img.shields.io/github/followers/yashmaniya0?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-## Connect with me :
+Connect with me :
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-maniya-b18344201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-maniya-b18344201/" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 
 <br>
 
-## Languages and Tools :
+Languages and Tools :
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,dart,flutter,nodejs,heroku,github,git,cpp,py,pytorch,tensorflow,vscode,androidstudio&theme=dark&perline=9)
 
