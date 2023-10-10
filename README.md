@@ -9,7 +9,7 @@
 
 <br/>  
 
-<img src="https://komarev.com/ghpvc/?username=yashmaniya0&label=Profile%20views&color=0e75b6&style=flat" alt="yashmaniya0" />
+<img src="https://komarev.com/ghpvc/?username=yashmaniya0&label=Profile%20views&color=0e75b6&style=flat" alt="yashmaniya0" width = "60px"/>
 <a href="https://github.com/yashmaniya0?tab=followers" style="margin-left:10px;"><img src="https://img.shields.io/github/followers/yashmaniya0?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
@@ -29,7 +29,6 @@ Languages and Tools :
 ![skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,dart,flutter,nodejs,heroku,github,git,cpp,py,pytorch,tensorflow,vscode,androidstudio&theme=dark&perline=9)
 
 <br>
-<p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmaniya0&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="yashmaniya0" /></p>
 
 <p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=yashmaniya0&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="yashmaniya0" /></p>
 
