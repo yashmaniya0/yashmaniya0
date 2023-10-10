@@ -9,7 +9,7 @@
 
 <br/>  
 
-<img src="https://komarev.com/ghpvc/?username=yashmaniya0&label=Profile%20views&color=0e75b6&style=flat" alt="yashmaniya0" width = "60px"/>
+<img src="https://komarev.com/ghpvc/?username=yashmaniya0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 <a href="https://github.com/yashmaniya0?tab=followers" style="margin-left:10px;"><img src="https://img.shields.io/github/followers/yashmaniya0?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
