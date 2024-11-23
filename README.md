@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/media/37f1bcbcdd3818bec18999802c6ed4b8.gif" align="center" style="width: 60%" />
-<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" /> -->
-</div>  
-
-<br>
-
 <p align="center">Hello! I'm Yash Maniya, CSE '24 @ IIT Jodhpur. blah blah blah</p>
 
 <br/>  
